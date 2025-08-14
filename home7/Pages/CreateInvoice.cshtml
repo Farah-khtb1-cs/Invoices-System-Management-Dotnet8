@@ -1,0 +1,73 @@
+﻿@page 
+@model home7.Pages.CreateInvoiceModel
+@{
+}
+
+<h1>New Invoice</h1>
+<form method="post">
+    <input type="hidden" asp-for="InvoiceBinding.Id" />
+    <div class="form-group">
+        <label asp-for="InvoiceBinding.Number"></label>
+        <input asp-for="InvoiceBinding.Number" class="form-control" />
+        <span asp-validation-for="InvoiceBinding.Number" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="InvoiceBinding.Status"></label>
+        <select class="form-select" asp-for="InvoiceBinding.Status">
+            <option value="">Select Status</option>
+            <option value="Draft">Draft</option>
+            <option value="Sent">Sent</option>
+            <option value="Paid">Paid</option>
+            <option value="Overdue">Overdue</option>
+            </select>
+        <span asp-validation-for="InvoiceBinding.Status" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="InvoiceBinding.Service"></label>
+        <input asp-for="InvoiceBinding.Service" class="form-control" />
+        <span asp-validation-for="InvoiceBinding.Service" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="InvoiceBinding.ClientName"></label>
+        <input asp-for="InvoiceBinding.ClientName" class="form-control" />
+        <span asp-validation-for="InvoiceBinding.ClientName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="InvoiceBinding.Quantity"></label>
+        <input asp-for="InvoiceBinding.Quantity" type="number" class="form-control" />
+        <span asp-validation-for="InvoiceBinding.Quantity" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="InvoiceBinding.UnitPrice"></label>
+        <input asp-for="InvoiceBinding.UnitPrice" type="number" step="0.01" class="form-control" />
+        <span asp-validation-for="InvoiceBinding.UnitPrice" class="text-danger"></span>
+    </div>
+        <div class="form-group">
+        <label asp-for="InvoiceBinding.Email"></label>
+        <input asp-for="InvoiceBinding.Email" type="Email" step="0.01" class="form-control" />
+        <span asp-validation-for="InvoiceBinding.Email" class="text-danger"></span>
+    </div>
+        <div class="form-group">
+        <label asp-for="InvoiceBinding.Phone"></label>
+        <input asp-for="InvoiceBinding.Phone" type="Phone" step="0.01" class="form-control" />
+        <span asp-validation-for="InvoiceBinding.Phone" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="InvoiceBinding.Address"></label>
+        <input asp-for="InvoiceBinding.Address" type="text" step="0.01" class="form-control" />
+        <span asp-validation-for="InvoiceBinding.Address" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="InvoiceBinding.IssueDate"></label>
+        <input asp-for="InvoiceBinding.IssueDate" type="date" class="form-control" />
+        <span asp-validation-for="InvoiceBinding.IssueDate" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="InvoiceBinding.DueDate"></label>
+        <input asp-for="InvoiceBinding.DueDate" type="date" class="form-control" />
+        <span asp-validation-for="InvoiceBinding.DueDate" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Create Invoice</button>
+</form>
+
+

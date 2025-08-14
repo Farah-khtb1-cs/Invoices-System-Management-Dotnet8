@@ -1,0 +1,44 @@
+﻿@page
+@using home7.Models
+@model home7.Pages.DisplayInvoicesModel
+@{
+}
+<h1>Invoices</h1>
+<a class="btn btn-primary" asp-page="/CreateInvoice">New Invoice</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Invoice Number</th>
+            <th>Status</th>
+            <th>Client</th>
+            <th>Total Price</th>
+            <th>Issue Date</th>
+            <th>Due Date</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var invoice in Model.Invoices)
+        {
+            <tr>
+               <td>@invoice.Id</td>
+                <td>@invoice.Number</td>
+                <td>@invoice.Status</td>
+                <td>@invoice.ClientName</td>
+                <td>@(invoice.Quantity * invoice.UnitPrice)</td>
+                <td>@invoice.IssueDate.ToShortDateString()</td>
+                <td>@invoice.DueDate.ToShortDateString()</td>
+                <td>
+                    <a class="btn btn-secondary" asp-page="/CreateInvoice" asp-route-id="@invoice.Id">Edit</a>
+                    <form method="post" asp-page-handler="Delete" asp-route-id="@invoice.Id" style="display:inline;"
+                          onsubmit="return confirm('Are you sure you want to delete this customer?');">
+                        <button type="submit" class="btn btn-sm btn-danger">Delete</button>
+                    </form>
+                    <a class="btn btn-info" asp-page="/ViewInvoiceDetail" asp-route-id="@invoice.Id">View Details</a>
+
+                </td>
+            </tr>
+        }
+    </tbody>

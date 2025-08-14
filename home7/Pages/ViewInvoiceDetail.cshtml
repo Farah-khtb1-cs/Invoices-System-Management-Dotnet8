@@ -1,0 +1,48 @@
+﻿@page
+@model home7.Pages.ViewInvoiceDetailModel
+@{
+}
+
+<h1>Invoice Details</h1>
+<table>
+    <tr>
+        <th>Invoice Number</th>
+        <td>@Model.Invoiceview.Number</td>
+    </tr>
+    <tr>
+        <th>Status</th>
+        <td>@Model.Invoiceview.Status</td>
+    </tr>
+    <tr>
+        <th>Service</th>
+        <td>@Model.Invoiceview.Service</td>
+    </tr>
+    <tr>
+        <th>Client Name</th>
+        <td>@Model.Invoiceview.ClientName</td>
+    </tr>
+    <tr>
+        <th>Quantity</th>
+        <td>@Model.Invoiceview.Quantity</td>
+    </tr>
+    <tr>
+        <th>Unit Price</th>
+        <td>@Model.Invoiceview.UnitPrice</td>
+    </tr>
+    <tr>
+        <th>Total Price</th>
+        <td>@(Model.Invoiceview.Quantity * Model.Invoiceview.UnitPrice)</td>
+    </tr>
+    <tr>
+        <th>Email</th>
+        <td>@Model.Invoiceview.Email</td>
+    </tr>
+    <tr>
+        <th>Phone</th>
+        <td>@Model.Invoiceview.Phone</td>
+    </tr>
+    <tr>
+        <th>Address</th>
+        <td>@Model.Invoiceview.Address</td>
+    </tr>
+</table>
