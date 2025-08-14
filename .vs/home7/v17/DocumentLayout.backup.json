@@ -1,81 +1,81 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\asp_labs_besmellah\\home7\\",
+  "WorkspaceRootPath": "G:\\My Drive\\My projects\\Invoices_System_Management_dotnet8\\home7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|c:\\asp_labs_besmellah\\home7\\home7\\models\\invoicebinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|solutionrelative:home7\\models\\invoicebinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|c:\\asp_labs_besmellah\\home7\\home7\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|solutionrelative:home7\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|c:\\asp_labs_besmellah\\home7\\home7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|solutionrelative:home7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|c:\\asp_labs_besmellah\\home7\\home7\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|solutionrelative:home7\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|c:\\asp_labs_besmellah\\home7\\home7\\pages\\displayinvoices.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|solutionrelative:home7\\pages\\displayinvoices.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|c:\\asp_labs_besmellah\\home7\\home7\\pages\\createinvoice.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|solutionrelative:home7\\pages\\createinvoice.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|c:\\asp_labs_besmellah\\home7\\home7\\pages\\createinvoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|solutionrelative:home7\\pages\\createinvoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|c:\\asp_labs_besmellah\\home7\\home7\\models\\invoiceview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|solutionrelative:home7\\models\\invoiceview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|c:\\asp_labs_besmellah\\home7\\home7\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|solutionrelative:home7\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|c:\\asp_labs_besmellah\\home7\\home7\\pages\\viewinvoicedetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|solutionrelative:home7\\pages\\viewinvoicedetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|c:\\asp_labs_besmellah\\home7\\home7\\pages\\viewinvoicedetail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|solutionrelative:home7\\pages\\viewinvoicedetail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|c:\\asp_labs_besmellah\\home7\\home7\\pages\\displayinvoices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|g:\\my drive\\my projects\\invoices_system_management_dotnet8\\home7\\home7\\pages\\displayinvoices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|solutionrelative:home7\\pages\\displayinvoices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|c:\\asp_labs_besmellah\\home7\\home7\\services\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|g:\\my drive\\my projects\\invoices_system_management_dotnet8\\home7\\home7\\pages\\displayinvoices.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|solutionrelative:home7\\pages\\displayinvoices.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|g:\\my drive\\my projects\\invoices_system_management_dotnet8\\home7\\home7\\pages\\createinvoice.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|solutionrelative:home7\\pages\\createinvoice.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|g:\\my drive\\my projects\\invoices_system_management_dotnet8\\home7\\home7\\pages\\createinvoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|solutionrelative:home7\\pages\\createinvoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|g:\\my drive\\my projects\\invoices_system_management_dotnet8\\home7\\home7\\services\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|solutionrelative:home7\\services\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|c:\\asp_labs_besmellah\\home7\\home7\\services\\iservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|g:\\my drive\\my projects\\invoices_system_management_dotnet8\\home7\\home7\\services\\iservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|solutionrelative:home7\\services\\iservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|c:\\asp_labs_besmellah\\home7\\home7\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|g:\\my drive\\my projects\\invoices_system_management_dotnet8\\home7\\home7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|solutionrelative:home7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|g:\\my drive\\my projects\\invoices_system_management_dotnet8\\home7\\home7\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|solutionrelative:home7\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|g:\\my drive\\my projects\\invoices_system_management_dotnet8\\home7\\home7\\models\\invoicebinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|solutionrelative:home7\\models\\invoicebinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|g:\\my drive\\my projects\\invoices_system_management_dotnet8\\home7\\home7\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|solutionrelative:home7\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|g:\\my drive\\my projects\\invoices_system_management_dotnet8\\home7\\home7\\models\\invoiceview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|solutionrelative:home7\\models\\invoiceview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|g:\\my drive\\my projects\\invoices_system_management_dotnet8\\home7\\home7\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|solutionrelative:home7\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|g:\\my drive\\my projects\\invoices_system_management_dotnet8\\home7\\home7\\pages\\viewinvoicedetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|solutionrelative:home7\\pages\\viewinvoicedetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|g:\\my drive\\my projects\\invoices_system_management_dotnet8\\home7\\home7\\pages\\viewinvoicedetail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|solutionrelative:home7\\pages\\viewinvoicedetail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|g:\\my drive\\my projects\\invoices_system_management_dotnet8\\home7\\home7\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|solutionrelative:home7\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|c:\\asp_labs_besmellah\\home7\\home7\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|g:\\my drive\\my projects\\invoices_system_management_dotnet8\\home7\\home7\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|solutionrelative:home7\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|c:\\asp_labs_besmellah\\home7\\home7\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|g:\\my drive\\my projects\\invoices_system_management_dotnet8\\home7\\home7\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|solutionrelative:home7\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|c:\\asp_labs_besmellah\\home7\\home7\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|g:\\my drive\\my projects\\invoices_system_management_dotnet8\\home7\\home7\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|solutionrelative:home7\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|c:\\asp_labs_besmellah\\home7\\home7\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|g:\\my drive\\my projects\\invoices_system_management_dotnet8\\home7\\home7\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{400B9314-1C2A-490E-A84C-7A3F0F154E9A}|home7\\home7.csproj|solutionrelative:home7\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -86,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 192,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,47 +98,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CreateInvoice.cshtml",
-              "DocumentMoniker": "C:\\asp_labs_besmellah\\home7\\home7\\Pages\\CreateInvoice.cshtml",
-              "RelativeDocumentMoniker": "home7\\Pages\\CreateInvoice.cshtml",
-              "ToolTip": "C:\\asp_labs_besmellah\\home7\\home7\\Pages\\CreateInvoice.cshtml",
-              "RelativeToolTip": "home7\\Pages\\CreateInvoice.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-13T10:05:52.045Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreateInvoice.cshtml.cs",
-              "DocumentMoniker": "C:\\asp_labs_besmellah\\home7\\home7\\Pages\\CreateInvoice.cshtml.cs",
-              "RelativeDocumentMoniker": "home7\\Pages\\CreateInvoice.cshtml.cs",
-              "ToolTip": "C:\\asp_labs_besmellah\\home7\\home7\\Pages\\CreateInvoice.cshtml.cs",
-              "RelativeToolTip": "home7\\Pages\\CreateInvoice.cshtml.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAgwAoAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T10:10:50.755Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DisplayInvoices.cshtml.cs",
-              "DocumentMoniker": "C:\\asp_labs_besmellah\\home7\\home7\\Pages\\DisplayInvoices.cshtml.cs",
-              "RelativeDocumentMoniker": "home7\\Pages\\DisplayInvoices.cshtml.cs",
-              "ToolTip": "C:\\asp_labs_besmellah\\home7\\home7\\Pages\\DisplayInvoices.cshtml.cs",
-              "RelativeToolTip": "home7\\Pages\\DisplayInvoices.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T09:38:56.465Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\asp_labs_besmellah\\home7\\home7\\appsettings.json",
+              "DocumentMoniker": "G:\\My Drive\\My projects\\Invoices_System_Management_dotnet8\\home7\\home7\\appsettings.json",
               "RelativeDocumentMoniker": "home7\\appsettings.json",
-              "ToolTip": "C:\\asp_labs_besmellah\\home7\\home7\\appsettings.json",
+              "ToolTip": "G:\\My Drive\\My projects\\Invoices_System_Management_dotnet8\\home7\\home7\\appsettings.json",
               "RelativeToolTip": "home7\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -146,11 +110,108 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\My Drive\\My projects\\Invoices_System_Management_dotnet8\\home7\\home7\\Program.cs",
+              "RelativeDocumentMoniker": "home7\\Program.cs",
+              "ToolTip": "G:\\My Drive\\My projects\\Invoices_System_Management_dotnet8\\home7\\home7\\Program.cs",
+              "RelativeToolTip": "home7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:17:24.631Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "InvoiceBinding.cs",
+              "DocumentMoniker": "G:\\My Drive\\My projects\\Invoices_System_Management_dotnet8\\home7\\home7\\Models\\InvoiceBinding.cs",
+              "RelativeDocumentMoniker": "home7\\Models\\InvoiceBinding.cs",
+              "ToolTip": "G:\\My Drive\\My projects\\Invoices_System_Management_dotnet8\\home7\\home7\\Models\\InvoiceBinding.cs",
+              "RelativeToolTip": "home7\\Models\\InvoiceBinding.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T10:06:26.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IServices.cs",
+              "DocumentMoniker": "G:\\My Drive\\My projects\\Invoices_System_Management_dotnet8\\home7\\home7\\Services\\IServices.cs",
+              "RelativeDocumentMoniker": "home7\\Services\\IServices.cs",
+              "ToolTip": "G:\\My Drive\\My projects\\Invoices_System_Management_dotnet8\\home7\\home7\\Services\\IServices.cs",
+              "RelativeToolTip": "home7\\Services\\IServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:40:02.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateInvoice.cshtml",
+              "DocumentMoniker": "G:\\My Drive\\My projects\\Invoices_System_Management_dotnet8\\home7\\home7\\Pages\\CreateInvoice.cshtml",
+              "RelativeDocumentMoniker": "home7\\Pages\\CreateInvoice.cshtml",
+              "ToolTip": "G:\\My Drive\\My projects\\Invoices_System_Management_dotnet8\\home7\\home7\\Pages\\CreateInvoice.cshtml",
+              "RelativeToolTip": "home7\\Pages\\CreateInvoice.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T10:05:52.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DisplayInvoices.cshtml",
+              "DocumentMoniker": "G:\\My Drive\\My projects\\Invoices_System_Management_dotnet8\\home7\\home7\\Pages\\DisplayInvoices.cshtml",
+              "RelativeDocumentMoniker": "home7\\Pages\\DisplayInvoices.cshtml",
+              "ToolTip": "G:\\My Drive\\My projects\\Invoices_System_Management_dotnet8\\home7\\home7\\Pages\\DisplayInvoices.cshtml",
+              "RelativeToolTip": "home7\\Pages\\DisplayInvoices.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T09:38:49.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateInvoice.cshtml.cs",
+              "DocumentMoniker": "G:\\My Drive\\My projects\\Invoices_System_Management_dotnet8\\home7\\home7\\Pages\\CreateInvoice.cshtml.cs",
+              "RelativeDocumentMoniker": "home7\\Pages\\CreateInvoice.cshtml.cs",
+              "ToolTip": "G:\\My Drive\\My projects\\Invoices_System_Management_dotnet8\\home7\\home7\\Pages\\CreateInvoice.cshtml.cs",
+              "RelativeToolTip": "home7\\Pages\\CreateInvoice.cshtml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T10:10:50.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DisplayInvoices.cshtml.cs",
+              "DocumentMoniker": "G:\\My Drive\\My projects\\Invoices_System_Management_dotnet8\\home7\\home7\\Pages\\DisplayInvoices.cshtml.cs",
+              "RelativeDocumentMoniker": "home7\\Pages\\DisplayInvoices.cshtml.cs",
+              "ToolTip": "G:\\My Drive\\My projects\\Invoices_System_Management_dotnet8\\home7\\home7\\Pages\\DisplayInvoices.cshtml.cs",
+              "RelativeToolTip": "home7\\Pages\\DisplayInvoices.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:38:56.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "G:\\My Drive\\My projects\\Invoices_System_Management_dotnet8\\home7\\home7\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "home7\\Models\\Invoice.cs",
+              "ToolTip": "G:\\My Drive\\My projects\\Invoices_System_Management_dotnet8\\home7\\home7\\Models\\Invoice.cs",
+              "RelativeToolTip": "home7\\Models\\Invoice.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:21:28.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\asp_labs_besmellah\\home7\\home7\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "G:\\My Drive\\My projects\\Invoices_System_Management_dotnet8\\home7\\home7\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "home7\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\asp_labs_besmellah\\home7\\home7\\Data\\AppDbContext.cs",
+              "ToolTip": "G:\\My Drive\\My projects\\Invoices_System_Management_dotnet8\\home7\\home7\\Data\\AppDbContext.cs",
               "RelativeToolTip": "home7\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -158,50 +219,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\asp_labs_besmellah\\home7\\home7\\Program.cs",
-              "RelativeDocumentMoniker": "home7\\Program.cs",
-              "ToolTip": "C:\\asp_labs_besmellah\\home7\\home7\\Program.cs",
-              "RelativeToolTip": "home7\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Services.cs",
+              "DocumentMoniker": "G:\\My Drive\\My projects\\Invoices_System_Management_dotnet8\\home7\\home7\\Services\\Services.cs",
+              "RelativeDocumentMoniker": "home7\\Services\\Services.cs",
+              "ToolTip": "G:\\My Drive\\My projects\\Invoices_System_Management_dotnet8\\home7\\home7\\Services\\Services.cs",
+              "RelativeToolTip": "home7\\Services\\Services.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T09:17:24.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T09:41:02.837Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Invoice.cs",
-              "DocumentMoniker": "C:\\asp_labs_besmellah\\home7\\home7\\Models\\Invoice.cs",
-              "RelativeDocumentMoniker": "home7\\Models\\Invoice.cs",
-              "ToolTip": "C:\\asp_labs_besmellah\\home7\\home7\\Models\\Invoice.cs",
-              "RelativeToolTip": "home7\\Models\\Invoice.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T09:21:28.417Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "InvoiceBinding.cs",
-              "DocumentMoniker": "C:\\asp_labs_besmellah\\home7\\home7\\Models\\InvoiceBinding.cs",
-              "RelativeDocumentMoniker": "home7\\Models\\InvoiceBinding.cs",
-              "ToolTip": "C:\\asp_labs_besmellah\\home7\\home7\\Models\\InvoiceBinding.cs",
-              "RelativeToolTip": "home7\\Models\\InvoiceBinding.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T10:06:26.365Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "InvoiceView.cs",
-              "DocumentMoniker": "C:\\asp_labs_besmellah\\home7\\home7\\Models\\InvoiceView.cs",
+              "DocumentMoniker": "G:\\My Drive\\My projects\\Invoices_System_Management_dotnet8\\home7\\home7\\Models\\InvoiceView.cs",
               "RelativeDocumentMoniker": "home7\\Models\\InvoiceView.cs",
-              "ToolTip": "C:\\asp_labs_besmellah\\home7\\home7\\Models\\InvoiceView.cs",
+              "ToolTip": "G:\\My Drive\\My projects\\Invoices_System_Management_dotnet8\\home7\\home7\\Models\\InvoiceView.cs",
               "RelativeToolTip": "home7\\Models\\InvoiceView.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -209,11 +243,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "ViewInvoiceDetail.cshtml",
-              "DocumentMoniker": "C:\\asp_labs_besmellah\\home7\\home7\\Pages\\ViewInvoiceDetail.cshtml",
+              "DocumentMoniker": "G:\\My Drive\\My projects\\Invoices_System_Management_dotnet8\\home7\\home7\\Pages\\ViewInvoiceDetail.cshtml",
               "RelativeDocumentMoniker": "home7\\Pages\\ViewInvoiceDetail.cshtml",
-              "ToolTip": "C:\\asp_labs_besmellah\\home7\\home7\\Pages\\ViewInvoiceDetail.cshtml",
+              "ToolTip": "G:\\My Drive\\My projects\\Invoices_System_Management_dotnet8\\home7\\home7\\Pages\\ViewInvoiceDetail.cshtml",
               "RelativeToolTip": "home7\\Pages\\ViewInvoiceDetail.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -221,11 +255,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "ViewInvoiceDetail.cshtml.cs",
-              "DocumentMoniker": "C:\\asp_labs_besmellah\\home7\\home7\\Pages\\ViewInvoiceDetail.cshtml.cs",
+              "DocumentMoniker": "G:\\My Drive\\My projects\\Invoices_System_Management_dotnet8\\home7\\home7\\Pages\\ViewInvoiceDetail.cshtml.cs",
               "RelativeDocumentMoniker": "home7\\Pages\\ViewInvoiceDetail.cshtml.cs",
-              "ToolTip": "C:\\asp_labs_besmellah\\home7\\home7\\Pages\\ViewInvoiceDetail.cshtml.cs",
+              "ToolTip": "G:\\My Drive\\My projects\\Invoices_System_Management_dotnet8\\home7\\home7\\Pages\\ViewInvoiceDetail.cshtml.cs",
               "RelativeToolTip": "home7\\Pages\\ViewInvoiceDetail.cshtml.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwBgAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -233,47 +267,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DisplayInvoices.cshtml",
-              "DocumentMoniker": "C:\\asp_labs_besmellah\\home7\\home7\\Pages\\DisplayInvoices.cshtml",
-              "RelativeDocumentMoniker": "home7\\Pages\\DisplayInvoices.cshtml",
-              "ToolTip": "C:\\asp_labs_besmellah\\home7\\home7\\Pages\\DisplayInvoices.cshtml",
-              "RelativeToolTip": "home7\\Pages\\DisplayInvoices.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-13T09:38:49.763Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Services.cs",
-              "DocumentMoniker": "C:\\asp_labs_besmellah\\home7\\home7\\Services\\Services.cs",
-              "RelativeDocumentMoniker": "home7\\Services\\Services.cs",
-              "ToolTip": "C:\\asp_labs_besmellah\\home7\\home7\\Services\\Services.cs",
-              "RelativeToolTip": "home7\\Services\\Services.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAkwA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T09:41:02.837Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IServices.cs",
-              "DocumentMoniker": "C:\\asp_labs_besmellah\\home7\\home7\\Services\\IServices.cs",
-              "RelativeDocumentMoniker": "home7\\Services\\IServices.cs",
-              "ToolTip": "C:\\asp_labs_besmellah\\home7\\home7\\Services\\IServices.cs",
-              "RelativeToolTip": "home7\\Services\\IServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T09:40:02.568Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 14,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\asp_labs_besmellah\\home7\\home7\\Pages\\_ViewStart.cshtml",
+              "DocumentMoniker": "G:\\My Drive\\My projects\\Invoices_System_Management_dotnet8\\home7\\home7\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "home7\\Pages\\_ViewStart.cshtml",
-              "ToolTip": "C:\\asp_labs_besmellah\\home7\\home7\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "G:\\My Drive\\My projects\\Invoices_System_Management_dotnet8\\home7\\home7\\Pages\\_ViewStart.cshtml",
               "RelativeToolTip": "home7\\Pages\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -283,9 +281,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\asp_labs_besmellah\\home7\\home7\\Pages\\_ViewImports.cshtml",
+              "DocumentMoniker": "G:\\My Drive\\My projects\\Invoices_System_Management_dotnet8\\home7\\home7\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "home7\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "C:\\asp_labs_besmellah\\home7\\home7\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "G:\\My Drive\\My projects\\Invoices_System_Management_dotnet8\\home7\\home7\\Pages\\_ViewImports.cshtml",
               "RelativeToolTip": "home7\\Pages\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -295,9 +293,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\asp_labs_besmellah\\home7\\home7\\Pages\\Index.cshtml",
+              "DocumentMoniker": "G:\\My Drive\\My projects\\Invoices_System_Management_dotnet8\\home7\\home7\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "home7\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\asp_labs_besmellah\\home7\\home7\\Pages\\Index.cshtml",
+              "ToolTip": "G:\\My Drive\\My projects\\Invoices_System_Management_dotnet8\\home7\\home7\\Pages\\Index.cshtml",
               "RelativeToolTip": "home7\\Pages\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -307,9 +305,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\asp_labs_besmellah\\home7\\home7\\Pages\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "G:\\My Drive\\My projects\\Invoices_System_Management_dotnet8\\home7\\home7\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "home7\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\asp_labs_besmellah\\home7\\home7\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "G:\\My Drive\\My projects\\Invoices_System_Management_dotnet8\\home7\\home7\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "home7\\Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAIBJwBwAAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -319,9 +317,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\asp_labs_besmellah\\home7\\home7\\Pages\\Privacy.cshtml",
+              "DocumentMoniker": "G:\\My Drive\\My projects\\Invoices_System_Management_dotnet8\\home7\\home7\\Pages\\Privacy.cshtml",
               "RelativeDocumentMoniker": "home7\\Pages\\Privacy.cshtml",
-              "ToolTip": "C:\\asp_labs_besmellah\\home7\\home7\\Pages\\Privacy.cshtml",
+              "ToolTip": "G:\\My Drive\\My projects\\Invoices_System_Management_dotnet8\\home7\\home7\\Pages\\Privacy.cshtml",
               "RelativeToolTip": "home7\\Pages\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
