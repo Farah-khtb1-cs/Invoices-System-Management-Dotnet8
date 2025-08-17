@@ -1,0 +1,1 @@
+Minimal invoice management web app built with ASP.NET Core Razor Pages (.NET 8) and EF Core 8 on SQL Server. Create, list, edit, view, and delete invoices with validation and a Bootstrap UI.
